@@ -1,0 +1,16 @@
+.main .news_page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main .news_page p {
+    width: 60%;
+    font-size: 16px;
+}
+
+.main .news_page .news_time ul {
+    list-style: none;
+    display: flex;
+}
