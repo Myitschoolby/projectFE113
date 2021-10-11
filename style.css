@@ -1,0 +1,21 @@
+
+.categories{
+    background-color: rgb(198, 197, 197);
+}
+.wrapper{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.categories__list ul{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.categories__list ul a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+
+}
